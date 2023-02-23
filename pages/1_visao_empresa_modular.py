@@ -1,6 +1,8 @@
 # Instalar as bibliotecas necessárias
 # para instalar as bibliotecas necessárias você deve colocar no prompt de comando o pip install (a biblioteca que você quer)
 
+pip install haversine
+
 # Libraries
 from haversine import haversine
 import plotly.express as px
